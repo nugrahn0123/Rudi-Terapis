@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nugrahn0123.github.io/Rudi-Terapis-Manado/sitemap.xml
+Sitemap: https://rudi-terapis-manado.vercel.app/sitemap.xml
